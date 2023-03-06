@@ -1,0 +1,440 @@
+INFO: Using the input1.pas file for input
+line: 1, lexeme: |A|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |B|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |1|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |2|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |3|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |(|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |'|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |H|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |E|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |L|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |L|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |O|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |W|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |O|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |L|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |D|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |'|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |)|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |#|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |3|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |2|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |1|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |A|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |B|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+
+line: 1, lexeme: |F|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |O|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |E|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |V|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |E|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |I|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |F|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |I|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |N|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |T|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |E|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |G|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |E|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |F|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |O|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |+|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |-|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |;|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+
+line: 1, lexeme: |E|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |L|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |S|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |E|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |F|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |O|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |P|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |I|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |N|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |T|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |W|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |H|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |I|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |L|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |E|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |{|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |A|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |c|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |o|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |m|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |m|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |e|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |n|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |t|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |t|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |o|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |i|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |g|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |n|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |o|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |r|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |e|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |}|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |E|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |A|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |L|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |1|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |2|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |.|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |3|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |4|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |I|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |N|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |T|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |2|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |3|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |4|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+
+line: 1, lexeme: |S|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |T|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |I|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |N|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |G|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |V|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |A|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |{|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |c|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |o|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |m|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |m|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |e|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |n|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |t|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |}|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |O|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |:|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+
+line: 1, lexeme: |'|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |I|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |A|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |M|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |A|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |S|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |T|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |I|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |N|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |G|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |,|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |I|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |A|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |M|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |A|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |L|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |S|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |O|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |A|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |S|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |T|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |I|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |N|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |G|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |'|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+
+line: 1, lexeme: |'|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |'|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |1|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |2|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |.|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |3|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |4|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |A|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |R|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |E|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |A|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |L|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |L|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |Y|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |L|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |O|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |N|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |G|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |N|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |A|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |M|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |E|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: | |, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |I|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |F|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |F|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |I|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |N|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |E|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |S|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+line: 1, lexeme: |S|, length: 1, token: TOK_UNKNOWN
+   ERROR: unknown token
+
+
+Found end of file...
